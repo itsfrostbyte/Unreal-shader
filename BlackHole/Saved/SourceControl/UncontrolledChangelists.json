@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/BJ/JJEXQ5L55GQKE9LFDREMYS.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/QS/VHQF8JWOATZI5V3ZVY5YTM.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HF/YFYBQ72OYLHJQS0TSSXGBV.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/Materials/Invert.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/Materials/Kamui.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/Materials/Kamui_Inst.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/Scripts/BlackholeBlueprint.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RA/T71W2VG1YPATJ3XV1CC3GJ.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/Materials/Transparent.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/Materials/Kamui_res.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/Materials/Kamui_res_inst.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/Materials/MF_UVAspectRatio.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/Materials/MF_UVNormalize.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/LevelPrototyping/Materials/M_Solid_Cube.uasset",
+				"C:/Users/omayh/Documents/Unreal Projects/ShaderSandbox/Content/LevelPrototyping/Materials/M_Solid_Cube_Blue.uasset"
+			]
+		}
+	]
+}

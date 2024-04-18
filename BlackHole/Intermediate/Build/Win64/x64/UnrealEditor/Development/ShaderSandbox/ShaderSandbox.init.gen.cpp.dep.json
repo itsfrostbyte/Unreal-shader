@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\omayh\\documents\\unreal projects\\shadersandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\shadersandbox\\uht\\shadersandbox.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\omayh\\documents\\unreal projects\\shadersandbox\\intermediate\\build\\win64\\x64\\shadersandboxeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\omayh\\documents\\unreal projects\\shadersandbox\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shadersandbox\\definitions.shadersandbox.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

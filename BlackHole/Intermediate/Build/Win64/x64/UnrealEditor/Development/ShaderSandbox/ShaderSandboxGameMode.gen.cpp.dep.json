@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\omayh\\documents\\unreal projects\\shadersandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\shadersandbox\\uht\\shadersandboxgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\omayh\\documents\\unreal projects\\shadersandbox\\intermediate\\build\\win64\\x64\\shadersandboxeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\omayh\\documents\\unreal projects\\shadersandbox\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shadersandbox\\definitions.shadersandbox.h",
+            "c:\\users\\omayh\\documents\\unreal projects\\shadersandbox\\source\\shadersandbox\\shadersandboxgamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\omayh\\documents\\unreal projects\\shadersandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\shadersandbox\\uht\\shadersandboxgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

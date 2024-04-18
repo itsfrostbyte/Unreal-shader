@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\omayh\\Documents\\Unreal Projects\\ShaderSandbox\\Source\\ShaderSandbox\\ShaderSandbox.Build.cs",
+		"C:\\Users\\omayh\\Documents\\Unreal Projects\\ShaderSandbox\\Source\\ShaderSandbox.Target.cs",
+		"C:\\Users\\omayh\\Documents\\Unreal Projects\\ShaderSandbox\\Source\\ShaderSandboxEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

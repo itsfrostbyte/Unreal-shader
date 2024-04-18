@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ShaderSandbox.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\omayh\Documents\Unreal Projects\ShaderSandbox\Intermediate\Build\Win64\x64\ShaderSandboxEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\omayh\Documents\Unreal Projects\ShaderSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShaderSandbox\ShaderSandbox.init.gen.cpp.obj"
+"C:\Users\omayh\Documents\Unreal Projects\ShaderSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShaderSandbox\ShaderSandboxCharacter.gen.cpp.obj"
+"C:\Users\omayh\Documents\Unreal Projects\ShaderSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShaderSandbox\ShaderSandboxGameMode.gen.cpp.obj"
+"C:\Users\omayh\Documents\Unreal Projects\ShaderSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShaderSandbox\ShaderSandbox.cpp.obj"
+"C:\Users\omayh\Documents\Unreal Projects\ShaderSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShaderSandbox\ShaderSandboxCharacter.cpp.obj"
+"C:\Users\omayh\Documents\Unreal Projects\ShaderSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShaderSandbox\ShaderSandboxGameMode.cpp.obj"
+"C:\Users\omayh\Documents\Unreal Projects\ShaderSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShaderSandbox\Default.rc2.res"
+/OUT:"C:\Users\omayh\Documents\Unreal Projects\ShaderSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShaderSandbox\UnrealEditor-ShaderSandbox.lib"

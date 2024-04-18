@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShaderSandbox",
+			"Path": "..\\Source\\ShaderSandbox.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShaderSandboxEditor",
+			"Path": "..\\Source\\ShaderSandboxEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
